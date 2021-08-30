@@ -1,3 +1,0 @@
-/home/jdeng/deng/refbox_OpcUa/example/client/build/CMakeFiles/rebuild_cache.dir
-/home/jdeng/deng/refbox_OpcUa/example/client/build/CMakeFiles/edit_cache.dir
-/home/jdeng/deng/refbox_OpcUa/example/client/build/CMakeFiles/opcuaClient.dir
