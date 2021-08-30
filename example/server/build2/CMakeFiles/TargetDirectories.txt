@@ -1,0 +1,3 @@
+/home/jdeng/test/server/build/CMakeFiles/rebuild_cache.dir
+/home/jdeng/test/server/build/CMakeFiles/edit_cache.dir
+/home/jdeng/test/server/build/CMakeFiles/opcuaServer.dir
